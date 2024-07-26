@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Jalanicybertest/Cloud-SOC)
     
-- <b>More in progress...</b>
+- <b>Vulnerability Management Project in progress...</b>
 
 <h2> 🤳 Connect with me:</h2>
 
