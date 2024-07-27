@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Jalanicybertest/Cloud-SOC)
     
-- <b>Vulnerability Management Project in progress...</b>
+- <b> Setting Up Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell</b>
 
 <h2> 🤳 Connect with me:</h2>
 
