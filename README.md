@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Azure / Cloud Project</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/Jalanicybertest/Cloud-SOC)
     
-- <b> Setting Up Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell</b>
-
+- <b> Active Directory Project (Oracle VirtualBox) | Add Users w/PowerShell</b>
+  - [Setting Up Home Lab Running Active Directory](https://github.com/Jalanicybertest/Home-Lab-Running-Active-Directory)
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JalaniHeath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
